@@ -35,6 +35,8 @@ Merge your changes so the action will be a part of the `main` branch.
 
 <footer>
 
+XD!
+
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
